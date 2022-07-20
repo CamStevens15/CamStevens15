@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Back-Country Skier, Naturalist and Star Wars enthusiast.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CamStevens15&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CamStevens15&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
