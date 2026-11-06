@@ -1,7 +1,7 @@
 ### 👋 Greetings!
 
 - 🔭 I’m currently working on all kinds of things!
-- 🌱 I’m currently learning more about Generative Adversarial Networks (GANs) and Python mostly, in particular sports Data Analysis.
+- 🌱 I’m currently learning more about Dbt.
 - 👯 I’m looking to collaborate on just about anything!
 - 💬 Ask me about anything you like!
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cameron-stevens-05a02919b/)!
